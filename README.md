@@ -1,2 +1,2 @@
 # OPUS_MAGNUM
-Contains spoilers for Opus Magnum by Zachtronics
+Solutions to Opus Magnum by Zachtronics. Both base game and community puzzles.
